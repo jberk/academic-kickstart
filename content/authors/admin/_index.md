@@ -37,7 +37,7 @@ education:
   - course: MPH in Health Management
     institution: Yale School of Public Health
     year: 2011    
-- course: BA in Political Science
+  - course: BA in Political Science
     institution: Yale University
     year: 2010
 
