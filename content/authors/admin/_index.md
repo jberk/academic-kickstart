@@ -24,18 +24,24 @@ interests:
 - Primary Care
 - Medical Education
 - Addiction Medicine
+- Social Media / FOAMed
 
 education:
   courses:
-  - course: BA (Political Science)
-    institution: Yale University
-    year: 2010
-  - course: MPH (Health Management)
-    institution: Yale School of Public Health
-    year: 2011
-  - course: MBA (Health Organizations Management)
+- course: Residency, Combined Internal Medicine / Pediatrics
+    institution: Johns Hopkins School of Medicine
+    year: 2019
+  - course: MBA in Health Organizations Management
     institution: Texas Tech University Rawls College of Business
     year: 2013
+  - course: MPH in Health Management
+    institution: Yale School of Public Health
+    year: 2011    
+- course: BA in Political Science
+    institution: Yale University
+    year: 2010
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +53,22 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/justinberk
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/justinberk
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/5813133-justin-berk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=TJ8BNeYAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2865-7464
+
+  
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,7 +76,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "justin.berk@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
