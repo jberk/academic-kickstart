@@ -31,7 +31,7 @@ education:
     institution: Johns Hopkins School of Medicine
     year: 2019
   - course: MD (Medicine)
-    institution: Texas Tech University Health Sciences Center School of Medicine
+    institution: Texas Tech University Health Sciences Center
     year: 2015
   - course: MBA (Health Organizations Management)
     institution: Texas Tech University Rawls College of Business
