@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Departments of Medicine and Pediatrics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Warren Alpert School of Medicine at Brown University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Justin Berk is an Assistant Professor in the Department of Medicine and Pediatrics at the Warren Alpert School of Medicine. His academic interests focus on urban health issues and innovative medical education modalities.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Primary Care
+- Medical Education
+- Addiction Medicine
 
 education:
   courses:
