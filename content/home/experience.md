@@ -35,7 +35,8 @@ The Curbsiders is the Internal Medicine Podcast that uses expert interviews to b
   location = "Providence, RI"
   date_start = "2019-08-01"
   date_end = ""
-  description = """Outpatient primary care, medical education, and addiction medicine research"""
+  description = """Outpatient primary care, medical education, and addiction medicine research
+  """
 
 [[experience]]
   title = "Physician Volunteer"
@@ -44,6 +45,7 @@ The Curbsiders is the Internal Medicine Podcast that uses expert interviews to b
   location = "Baltimore, MD"
   date_start = "2017-08-01"
   date_end = "2018-08-01"
-  description = """Provided buprenorphine prescriptions and counseling to recently released individuals struggling with addiction"""
+  description = """Provided buprenorphine prescriptions and counseling to recently released individuals
+  """
 
 +++
