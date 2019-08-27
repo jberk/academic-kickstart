@@ -37,6 +37,12 @@ education:
   - course: MBA in Health Organizations Management
     institution: Texas Tech University Rawls College of Business
     year: 2013
+  - course: MPH in Health Management
+    institution: Yale School of Public Health
+    year: 2011
+  - course: BA in Political Science
+    institution: Yale University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
