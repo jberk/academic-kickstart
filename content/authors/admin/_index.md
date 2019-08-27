@@ -24,6 +24,7 @@ interests:
 - Primary Care
 - Addiction Medicine
 - Medical Education
+- Free Open Access Medical Education & Social Media
 
 education:
   courses:
