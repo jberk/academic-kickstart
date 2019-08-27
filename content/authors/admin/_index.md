@@ -37,11 +37,6 @@ education:
   - course: MPH in Health Management
     institution: Yale School of Public Health
     year: 2011    
-  - course: BA in Political Science
-    institution: Yale University
-    year: 2010
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -54,18 +49,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/justinberk
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/justinberk
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/user/show/5813133-justin-berk
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=TJ8BNeYAAAAJ&hl
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2865-7464
+
 
   
   
