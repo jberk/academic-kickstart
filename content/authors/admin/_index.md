@@ -24,23 +24,22 @@ interests:
 - Primary Care
 - Addiction Medicine
 - Medical Education
-- Free Open Access Medical Education & Social Media
 
 education:
   courses:
-  - course: Residency, Combined Internal Medicine & Pediatrics
+  - course: Residency (Combined Internal Medicine & Pediatrics)
     institution: Johns Hopkins School of Medicine
     year: 2019
-  - course: MD
+  - course: MD (Medicine)
     institution: Texas Tech University Health Sciences Center School of Medicine
     year: 2015
-  - course: MBA in Health Organizations Management
+  - course: MBA (Health Organizations Management)
     institution: Texas Tech University Rawls College of Business
     year: 2013
-  - course: MPH in Health Management
+  - course: MPH (Health Management)
     institution: Yale School of Public Health
     year: 2011
-  - course: BA in Political Science
+  - course: BA (Political Science)
     institution: Yale University
     year: 2010
 
