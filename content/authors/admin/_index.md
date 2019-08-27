@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Residency, Combined Internal Medicine & Pediatrics
+    institution: Johns Hopkins School of Medicine
+    year: 2019
+  - course: MD
+    institution: Texas Tech University Health Sciences Center School of Medicine
+    year: 2015
+  - course: MBA in Health Organizations Management
+    institution: Texas Tech University Rawls College of Business
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
