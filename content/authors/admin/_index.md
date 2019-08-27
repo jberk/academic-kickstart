@@ -24,7 +24,7 @@ interests:
 - Primary Care
 - Medical Education
 - Addiction Medicine
-- Social Media / FOAMed
+- FOAMed
 
 education:
   courses:
