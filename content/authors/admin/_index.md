@@ -21,9 +21,9 @@ organizations:
 bio: Justin Berk is an Assistant Professor in the Departments of Medicine and Pediatrics at the Warren Alpert School of Medicine. His academic interests focus on urban health issues and innovative medical education modalities.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Primary Care
+- Addiction Medicine
+- Medical Education
 
 education:
   courses:
