@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-- course: Residency, Combined Internal Medicine / Pediatrics
+- course: Residency, Combined Internal Medicine and Pediatrics
     institution: Johns Hopkins School of Medicine
     year: 2019
   - course: MBA in Health Organizations Management
