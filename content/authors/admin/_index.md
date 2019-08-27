@@ -31,10 +31,10 @@ education:
 - course: Residency, Combined Internal Medicine and Pediatrics
     institution: Johns Hopkins School of Medicine
     year: 2019
-  - course: MBA in Health Organizations Management
+- course: MBA in Health Organizations Management
     institution: Texas Tech University Rawls College of Business
     year: 2013
-  - course: MPH in Health Management
+- course: MPH in Health Management
     institution: Yale School of Public Health
     year: 2011    
 
