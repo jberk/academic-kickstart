@@ -22,19 +22,19 @@ date_format = "2006"
   company = "The Curbsiders Internal Medicine Podcast"
   company_url = "https://thecurbsiders.com/author/jberk7"
   location = ""
-  date_start = "2017-01-01"
+  date_start = "2017"
   date_end = ""
   description = """
   The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and the practice-changing knowledge
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Professor"
+  company = "Warren Alpert School of Medicine at Brown University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Providence, RI"
+  date_start = "2019"
+  date_end = ""
+  description = """Outpatient medicine"""
 
 +++
