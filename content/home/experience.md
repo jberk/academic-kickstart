@@ -25,8 +25,7 @@ date_format = "2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Podcast
-
+  The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and the practice-changing knowledge
   """
 
 [[experience]]
