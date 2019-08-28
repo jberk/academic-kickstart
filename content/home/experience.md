@@ -28,13 +28,7 @@ date_format = "2006"
   The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and the practice-changing knowledge
   """
 
-[[experience]]
-  title = "Assistant Professor"
-  company = "Warren Alpert School of Medicine at Brown University"
-  company_url = ""
-  location = "Providence, RI"
-  date_start = "2019"
-  date_end = ""
-  description = """Outpatient medicine"""
+
+
 
 +++
