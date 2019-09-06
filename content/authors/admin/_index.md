@@ -27,19 +27,19 @@ interests:
 
 education:
   courses:
-  - course: Residency (Combined Internal Medicine & Pediatrics)
+  - course: Residency Internal Medicine & Pediatrics
     institution: Johns Hopkins School of Medicine
     year: 2019
-  - course: MD (Medicine)
+  - course: MD
     institution: Texas Tech University Health Sciences Center
     year: 2015
-  - course: MBA (Health Organizations Management)
+  - course: MBA in Health Organizations Management
     institution: Texas Tech University Rawls College of Business
     year: 2013
-  - course: MPH (Health Management)
+  - course: MPH in Health Management
     institution: Yale School of Public Health
     year: 2011
-  - course: BA (Political Science)
+  - course: BA in Political Science
     institution: Yale University
     year: 2010
 
