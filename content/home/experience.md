@@ -21,7 +21,7 @@ date_format = "2006"
 [[experience]]
   title = "Assistant Professor"
   company = "Warren Alpert School of Medicine at Brown University"
-  company_url = ""
+  company_url = "https://vivo.brown.edu/display/jberk1"
   location = "Providence"
   date_start = "2019-01-01"
   date_end = ""
@@ -39,14 +39,14 @@ date_format = "2006"
   """
 
 [[experience]]
-  title = "Producer"
-  company = "The Curbsiders Internal Medicine Podcast"
-  company_url = "https://thecurbsiders.com/author/jberk7"
-  location = ""
+  title = "Physician"
+  company = "Behavioral Health Leadership Institute"
+  company_url = "https://www.bhli.org/project-connections-at-re-entry.html"
+  location = "Baltimore"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and  practice-changing knowledge
+  The Internal
   """
 
 
