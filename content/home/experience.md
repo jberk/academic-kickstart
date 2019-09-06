@@ -25,7 +25,7 @@ date_format = "2006"
   location = "Providence"
   date_start = "2019-01-01"
   date_end = ""
-  description = """Clinical Educator, Department of Medicine and Pediatrics"""
+  description = """Clinical Educator in Department of Medicine and Pediatrics"""
 
 [[experience]]
   title = "Producer"
@@ -38,16 +38,7 @@ date_format = "2006"
   The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and  practice-changing knowledge
   """
 
-[[experience]]
-  title = "Physician"
-  company = "Behavioral Health Leadership Institute"
-  company_url = ""
-  location = "Baltimore"
-  date_start = "2017-01-01"
-  date_end = ""2018-01-01"
-  description = """
-  Provided buprenorphine prescriptions to recently released individuals struggling with addiction.
-  """
+
 
 
 
