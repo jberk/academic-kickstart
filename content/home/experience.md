@@ -18,14 +18,14 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Producer"
-  company = "The Curbsiders Internal Medicine Podcast"
+  title = "Assistant Professor"
+  company = "TWarren Alpert School of Medicine at Brown University""
   company_url = "https://thecurbsiders.com/author/jberk7"
-  location = ""
-  date_start = "2017-01-01"
+  location = "Providence"
+  date_start = "2019-01-01"
   date_end = ""
   description = """
-  The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and  practice-changing knowledge
+  Clinical educator
   """
 
 [[experience]]
