@@ -46,7 +46,7 @@ date_format = "2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  The Internal
+  Provided buprenorphine prescriptions to recently released individuals struggling with addiction
   """
 
 
