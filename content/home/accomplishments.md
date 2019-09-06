@@ -40,9 +40,9 @@ date_format = "2006"
   description = ""
   
 [[item]]
-  organization = "X Waiver"
+  organization = "Drug Enforcement Agency (DEA)"
   organization_url = "https://www.samhsa.gov/medication-assisted-treatment/training-materials-resources/buprenorphine-waiver"
-  title = "Drug Enforcement Agency (DEA)"
+  title = "X Waiver"
   url = ""
   certificate_url = ""
   date_start = "2017-07-01"
