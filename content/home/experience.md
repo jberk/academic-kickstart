@@ -27,7 +27,8 @@ date_format = "2006"
   description = """
   Clinical educator
   """
-[[experience]]
+  
+[[experience2]]
   title = "Producer"
   company = "The Curbsiders Internal Medicine Podcast"
   company_url = "https://thecurbsiders.com/author/jberk7"
