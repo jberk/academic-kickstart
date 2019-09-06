@@ -40,17 +40,13 @@ date_format = "2006"
 
 [[experience]]
   title = "Physician"
-  company = "GenCoin"
+  company = "Behavioral Health Leadership Institute"
   company_url = ""
-  location = "California"
+  location = "Baltimore"
   date_start = "2017-01-01"
-  date_end = ""
+  date_end = ""2018-01-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Provided buprenorphine prescriptions to recently released individuals struggling with addiction.
   """
 
 
