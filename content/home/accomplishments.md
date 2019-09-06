@@ -19,17 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Testing"
-  url = ""
-  certificate_url = "https://www.coursera.org"
+  organization = "American Academy of HIV Medicine"
+  organization_url = "http://aahivm.org/hiv-specialist/"
+  title = "HIV Specialist (AAHIVS)"
+  url = "http://aahivm.org/hiv-specialist/"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
+  description = "The Academy’s HIV-focused professional certifications are the first and only credentials offered domestically and internationally to physicians, nurse practitioners, physician assistants and pharmacists specializing in advanced level HIV care."
 
 [[item]]
-  organization = "edX"
+  organization = "CPH"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
+  organization = "DEA X Waiver"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
