@@ -11,7 +11,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -40,13 +40,13 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "DEA X Waiver"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "X Waiver"
+  organization_url = "https://www.samhsa.gov/medication-assisted-treatment/training-materials-resources/buprenorphine-waiver"
+  title = "Drug Enforcement Agency (DEA)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_end = ""
   description = ""
 
 +++
