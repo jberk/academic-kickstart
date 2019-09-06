@@ -21,13 +21,12 @@ date_format = "2006"
   title = "Assistant Professor"
   company = "TWarren Alpert School of Medicine at Brown University""
   company_url = "https://thecurbsiders.com/author/jberk7"
-  location = "Providence"
+  location = ""
   date_start = "2019-01-01"
   date_end = ""
   description = """
   Clinical educator
   """
-
 [[experience]]
   title = "Producer"
   company = "The Curbsiders Internal Medicine Podcast"
@@ -38,6 +37,5 @@ date_format = "2006"
   description = """
   The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and  practice-changing knowledge
   """
-
 
 +++
