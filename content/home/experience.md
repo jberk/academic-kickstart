@@ -25,10 +25,19 @@ date_format = "2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and the practice-changing knowledge
+  The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and  practice-changing knowledge
   """
 
-
+[[experience]]
+  title = "Producer"
+  company = "The Curbsiders Internal Medicine Podcast"
+  company_url = "https://thecurbsiders.com/author/jberk7"
+  location = ""
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  The Internal Medicine podcast that uses expert interviews to bring you clinical pearls and  practice-changing knowledge
+  """
 
 
 +++
