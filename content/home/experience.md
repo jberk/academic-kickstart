@@ -19,13 +19,13 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Professor"
+  title = "Assistant Professor"
   company = "Warren Alpert School of Medicine at Brown University"
   company_url = ""
   location = "Providence"
   date_start = "2019-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = ""
+  description = """Clinical Educator, Department of Medicine and Pediatrics"""
 
 [[experience]]
   title = "Producer"
