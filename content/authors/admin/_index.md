@@ -48,6 +48,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: CV
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:justin.berk@gmail.com".
@@ -57,9 +60,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/justinberk
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/user/show/5813133-justin-berk
 
 
 - icon: google-scholar
@@ -68,9 +68,7 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2865-7464
-- icon: CV
-  icon_pack: ai
-  link: files/cv.pdf
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
