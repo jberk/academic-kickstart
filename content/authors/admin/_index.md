@@ -48,8 +48,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: CV
-  icon_pack: fas
+- icon: cv
+  icon_pack: ai
   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
