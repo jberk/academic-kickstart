@@ -1,0 +1,12 @@
+---
+title: "The impact of a novel franchise clinic network on access to medicines and vaccinations in Kenya: A cross-sectional study"
+date: 2012-01-01
+publishDate: 2019-09-23T03:43:41.947074Z
+authors: ["Justin Berk", "Achyuta Adhvaryu"]
+publication_types: ["2"]
+abstract: "OBJECTIVES: To study the impact of a new franchise health clinic model (The HealthStore Foundation's CFWShops) on access to vaccinations and treatment for acute illnesses in a nationally representative sample of children in Kenya.$backslash$n$backslash$nDESIGN: The authors used multivariate linear and count regressions to examine associations between receipt of vaccinations or treatment and proximity to a franchise health clinic, adjusting for individual, household and clinic attributes as well as region fixed effects.$backslash$n$backslash$nSETTING: Demographic and Health Survey data from Kenya, 2008-2009.$backslash$n$backslash$nPARTICIPANTS: 6079 Kenyan children younger than 5 years, of whom 2310 reported recent acute illness.$backslash$n$backslash$nMAIN OUTCOME MEASURES: Outcomes for all children were number of polio doses received, number of DPT doses received, receipt of BCG vaccine, receipt of measles vaccine and number of total vaccinations received. Outcomes for acutely ill children were receipt of any medical treatment, treatment for fever, treatment for malaria and treatments specifically stocked by CFWShops.$backslash$n$backslash$nRESULTS: Children living within 30 km of a CFWShop received 0.129 (p=0.017) and 0.113 (p=0.025) more DPT and polio doses, respectively; and 0.285 more total vaccinations (p=0.023). Among acutely ill children, CFWShop proximity was associated with significant increases in the probabilities of receiving any medical treatment (0.142; ptextless0.001), treatment for fever (0.117; p=0.007) and treatments specifically stocked by CFWShops (0.064; p=0.015). Use of CFWShop services was not significantly different for lower-income vis-a-vis higher-income households.$backslash$n$backslash$nCONCLUSIONS: The franchise health clinic model could substantially increase access to essential vaccinations and treatments in low-income countries. Moreover, the model's benefits may accrue to lesser- and higher-income households alike."
+featured: false
+publication: "*BMJ Open*"
+doi: "10.1136/bmjopen-2011-000589"
+---
+

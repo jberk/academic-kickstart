@@ -1,0 +1,11 @@
+---
+title: "Social Sector Microfranchising in the Developing World : Using the Ideas Behind McDonald ' s to Deliver Essential Medicines to the Poor"
+date: 2010-01-01
+publishDate: 2019-09-23T03:43:41.951028Z
+authors: ["Justin Berk"]
+publication_types: ["7"]
+abstract: "This paper will seek to evaluate an alternative approach to expand access to basic health products and essential medicines. Social sector microfranchising utilizes the successful franchise model to deliver social goods at an affordable price, even to impoverished communities. The model seeks to standardize operations in order to scale rapidly and reach economies of scale. In doing so, microfranchising can offer consistently high-quality products to a large consumer base at low cost. This model can therefore create a sustainable source of affordable, high-quality treatments to those that need it most: the poor that suffer from curable illnesses. In addition to expanding access to care, the creation of an alternative for basic medical services can reduce the burden on public clinics and therefore help improve health outcomes in the government system. The essay is divided into four sections. The first introduces the current issues of drug access in developing countries and outlines the central arguments discussed throughout the paper. The second section describes the social sector microfranchise model and analyzes case studies of two organizations, Living Goods and the HealthStore Foundation. Living Goods is a traditional microfranchise service (similar to Avon) while the HealthStore Foundation is a business format microfranchise (similar to Subway). Through these case studies, I evaluate the strengths and weaknesses of the social sector microfranchising model. The third section introduces the ideas behind social enterprise and compares them to other methods of philanthropy and aid. These models are discussed within the context of the health-care industry. Finally, the fourth section discusses the implications of social sector microfranchising for other social goods (i.e. water), addresses ethical concerns of selling medical goods and services to poor consumers, and provides global policy recommendations that can further catalyze distribution of essential medicines."
+featured: false
+publication: "*Public Health*"
+---
+

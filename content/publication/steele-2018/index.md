@@ -1,0 +1,12 @@
+---
+title: "Medical students' perceptions of low-value care"
+date: 2018-01-01
+publishDate: 2019-09-23T03:43:41.951634Z
+authors: ["Christopher Steele", "Justin Berk", "Bimal Ashar", "Amit Pahwa", "Danelle Cayea"]
+publication_types: ["2"]
+abstract: "BACKGROUND: Medical schools are creating high-value care (HVC) curricula in undergraduate medical education; however, there are few studies identifying what are the most pressing low-value care (LVC) practices, as observed by students. This study is a multicentre, targeted needs assessment comparing medical student perceptions of LVC at four institutions, after completion of their internal medicine clerkship, to identify areas of focus for future HVC curriculum development. METHODS: A total of 307 medical students at four institutions participated in a voluntary survey and identified instances of LVC during the internal medicine clerkship. Responses were organised into seven LVC categories and analysed using chi-square testing to determine response variation by institution. RESULTS: The four most common themes identified by all institutions were testing for low prevalence disease processes (44%), excessive daily labwork (44%), errors in clinical judgement (26%) and testing that would not change management (21%). Responses did not vary by institution, with the exception that one school identified fewer instances of ordering excessive labwork compared with the other institutions (28 versus 46-54%; p = 0.05). There are few studies identifying what are the most pressing low-value care practices DISCUSSION: This is the first multi-institutional targeted needs assessment to demonstrate similarities in perceptions of LVC by medical students. Despite differences in geographic location and private and public affiliations, the top four categories remained consistent. These findings can provide a framework for educational objectives that address these issues in an HVC curriculum. Response variation, as seen with institution 2, offers opportunities for schools to personalise their HVC curriculum."
+featured: false
+publication: "*Clinical Teacher*"
+doi: "10.1111/tct.12705"
+---
+
