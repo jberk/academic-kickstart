@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 # title = "Accomplish&shy;ments"
 title = "Certificates"
@@ -27,7 +27,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = ""
-  description = "The Academy’s HIV-focused professional certifications are the first and only credentials offered domestically and internationally to physicians, nurse practitioners, physician assistants and pharmacists specializing in advanced level HIV care."
+  description = ""
 
 [[item]]
   organization = "National Board of Public Health Examiners"
