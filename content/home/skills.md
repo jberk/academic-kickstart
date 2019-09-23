@@ -26,17 +26,17 @@ subtitle = ""
   name = "Addiction Medicine"
   description = ""  
   
-[[feature]]
-  icon = "medkit"
-  icon_pack = "fas"
-  name = "Correctional Health"
-  description = ""  
+# [[feature]]
+#  icon = "medkit"
+#  icon_pack = "fas"
+#  name = "Correctional Health"
+#  description = ""  
   
-[[feature]]
-  icon = "hastag"
-  icon_pack = "fas"
-  name = "Social Media"
-  description = ""
+# [[feature]]
+#  icon = "hashtag"
+#  icon_pack = "fas"
+#  name = "Social Media"
+#  description = ""
 
 [[feature]]
   icon = "chalkboard"
