@@ -49,11 +49,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: CV
-  icon_pack: ai
+  icon_pack: fas
   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:justin.berk@gmail.com".
+  link: mailto:justin.berk@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/justinberk
