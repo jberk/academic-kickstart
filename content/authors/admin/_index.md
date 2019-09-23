@@ -51,23 +51,21 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: envelope
-  icon_pack: fas
-  link: mailto:justin.berk@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/justinberk
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/justinberk
-
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=TJ8BNeYAAAAJ&hl
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2865-7464
+- icon: envelope
+  icon_pack: fas
+  link: mailto:justin.berk@gmail.com
 
 
 # Link to a PDF of your resume/CV from the About widget.
